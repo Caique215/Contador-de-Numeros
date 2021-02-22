@@ -3,5 +3,6 @@
 
 # tirado do curso em video 
 # sou aluno do curso em video
-
+<p> Vamos cooperar para o  código Aberto  ( "código Open source código-fonte de um software") ...</p>
+  
 ![git hub](https://github.com/Caique215/Contador-de-Numeros/blob/main/supercontdor.png)
