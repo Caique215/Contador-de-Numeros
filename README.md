@@ -1,1 +1,2 @@
-# Contador-de-Numeros
+# Contador-de-Número aonde vc coloca.
+#### o Início , Fim e se quiser contar de 1 em 1 ou  2 em 2 etc...
